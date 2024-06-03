@@ -181,7 +181,6 @@ Additional guides:
 
 ### Management Tools
 - [USFS: TRACS - PDF](https://www.fs.usda.gov/recreation/programs/trail-management/documents/TRACS/TRACS_User_Guide_05_01_2011.pdf)
-
 - [Empire State Trails - Trail Usage Projections](https://empiretrail.ny.gov/sites/default/files/2021-09/EST%20Trail%20User%20Projections%20July%202018.pdf)
 
 ## Organizations
