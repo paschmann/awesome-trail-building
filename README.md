@@ -104,6 +104,7 @@ Source: [Richmond Trail Feasability Study | Rails to Trails Conservancy](https:/
 
 ## Trail Planning Tools
 
+- [Calculation Hub Slope Calculator](https://calculation-hub.com/construction/slope) - Educational rise/run, grade, and angle calculations; not a trail safety or accessibility assessment.
 ### Mapping and Topo Software
 
 - [ArcGIS Desktop](https://www.esri.com/en-us/)
